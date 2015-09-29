@@ -3,7 +3,7 @@
 This repository contains a random password generator implemented in Perl.
 
 NORMAL BEHAVIOUR
-1. The Server must contain:
+•	The Server must contain:
 -	Local Host 
 -	Local Port 
 -	Proto 
